@@ -1,0 +1,5 @@
+/unpackage/*
+/.gitee/*
+/git-tmp/*
+/platforms/*
+node_modules
