@@ -2,7 +2,7 @@ var items =[
 	{
 	  id:'1',
 		title:"点心",
-		image:'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544799000&di=1610b5317bb15dbb6a36e4d57cf4eb3f&imgtype=jpg&er=1&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimgad%2Fpic%2Fitem%2Fc995d143ad4bd1138854651451afa40f4bfb057f.jpg',
+		image:'https://img2.baidu.com/it/u=2132820227,2347892094&fm=26&fmt=auto',
 		stock:'23',
 		price:'123',
 		newprice:'99',
@@ -10,7 +10,7 @@ var items =[
 	},{
 	  id:'2',
 		title:"面包牛肉",
-		image:'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544204280787&di=64dadf9649f7b6f0f135159cabbe2ae7&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimgad%2Fpic%2Fitem%2F32fa828ba61ea8d3dd7dc6399c0a304e251f58ab.jpg',
+		image:'https://img2.baidu.com/it/u=877670643,98469344&fm=26&fmt=auto',
 		stock:'13',
 		price:'111',
 		newprice:'89',
@@ -19,7 +19,7 @@ var items =[
 		{
 	  id:'3',
 		title:"鸡排面",
-		image:'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544204280787&di=cfd84df82c675e88976d5cb83049e30d&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimgad%2Fpic%2Fitem%2Fe824b899a9014c08cbe37399017b02087bf4f436.jpg',
+		image:'https://img1.baidu.com/it/u=582224204,614909125&fm=26&fmt=auto',
 		stock:'13',
 		price:'93',
 		newprice:'69',
@@ -27,7 +27,7 @@ var items =[
 	},{
 	  id:'4',
 		title:"自助海鲜",
-		image:'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544204280786&di=e2033910f3763e04c9b50a9319e0c227&imgtype=0&src=http%3A%2F%2Fimg.pconline.com.cn%2Fimages%2Fupload%2Fupc%2Ftx%2Fphotoblog%2F1709%2F08%2Fc2%2F58457489_1504833134434_mthumb.jpg',
+		image:'https://img2.baidu.com/it/u=648558389,2637229370&fm=26&fmt=auto',
 		stock:'13',
 		price:'223',
 		newprice:'169',
@@ -35,7 +35,7 @@ var items =[
 	},{
 	  id:'5',
 		title:"特质肉片",
-		image:'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544204280784&di=ae01f30678d452e5a52cf2ca7a3fa53b&imgtype=0&src=http%3A%2F%2Fimg3.redocn.com%2Ftupian%2F20141122%2Fxiaochaoyangroumeishi_3486181.jpg',
+		image:'https://img1.baidu.com/it/u=3400780626,4156388793&fm=26&fmt=auto',
 		stock:'19',
 		price:'93',
 		newprice:'68',
@@ -43,7 +43,7 @@ var items =[
 	},{
 	  id:'6',
 		title:"韩国寿司",
-		image:'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544204280783&di=ba84702a966f569ff4e3f475efc8ee94&imgtype=0&src=http%3A%2F%2Fpic23.nipic.com%2F20120915%2F3127022_100650207192_2.jpg',
+		image:'https://img0.baidu.com/it/u=2450868132,1109929288&fm=26&fmt=auto',
 		stock:'133',
 		price:'66',
 		newprice:'58',
