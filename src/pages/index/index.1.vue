@@ -145,7 +145,7 @@
 					if (action === 'refresh') {
 							this.productListData = [];
 					}
-					var host="/api/goodsList.json";//主服务器地址
+					var host=this.$config.host+"goodsList.json";//主服务器地址
 					request.get(host,{},(res)=>{
 								if(res.data.length<this.number){
 									// 如果服务器端数据少于20条关闭下拉触发

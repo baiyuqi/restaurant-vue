@@ -5,9 +5,7 @@ var server={
 module.exports = {
 	host:server.host,
 	server:server,
-	configureWebpack: {
-		devtool: 'source-map'
-	  }
+	
 	// app: app,//全局
 // 	tokenInit:app.tokenInit,//token 有效期检测 自动请求服务器更新
 // 	service:app.service,//服务器 地址等相关信息

@@ -46,7 +46,7 @@ export default {
 	props:['productList'],
     data() {
         return {
-			 image: '/static/image/60x60.png',
+			// image: '/static/image/60x60.png',
 // 			loadingType: 1,//加载圈圈
 // 			contentText: {
 // 				// 加载圈圈上的文字内容
